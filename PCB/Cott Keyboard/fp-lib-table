@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Cott")(type "KiCad")(uri "${KIPRJMOD}/Cott.pretty")(options "")(descr "Cott Keyboard project footprints"))
+)

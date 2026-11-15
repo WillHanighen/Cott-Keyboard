@@ -5529,7 +5529,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SW_SPST"
+		(property "Value" "D2F-01FL"
 			(at 29.21 147.3199 90)
 			(hide yes)
 			(show_name no)
@@ -5541,7 +5541,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Cott:SW_Omron_D2F-01FL_SPST_NO"
 			(at 26.67 146.05 0)
 			(hide yes)
 			(show_name no)
@@ -5780,7 +5780,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "D"
+		(property "Value" "1N4148W"
 			(at 76.2 167.6399 90)
 			(hide yes)
 			(show_name no)
@@ -5792,7 +5792,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 73.66 166.37 0)
 			(hide yes)
 			(show_name no)
@@ -5886,7 +5886,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SW_SPST"
+		(property "Value" "D2F-01FL"
 			(at 49.53 176.5299 90)
 			(hide yes)
 			(show_name no)
@@ -5898,7 +5898,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Cott:SW_Omron_D2F-01FL_SPST_NO"
 			(at 46.99 175.26 0)
 			(hide yes)
 			(show_name no)
@@ -5980,7 +5980,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_Wire:SolderWire-0.25sqmm_1x05_P4.2mm_D0.65mm_OD1.7mm_Relief"
 			(at 105.41 165.1 0)
 			(hide yes)
 			(show_name no)
@@ -6071,7 +6071,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 262.89 51.1048 0)
 			(hide yes)
 			(show_name no)
@@ -6153,7 +6153,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 154.94 51.1048 0)
 			(hide yes)
 			(show_name no)
@@ -6392,7 +6392,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "D"
+		(property "Value" "1N4148W"
 			(at 52.07 138.4299 90)
 			(hide yes)
 			(show_name no)
@@ -6404,7 +6404,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 49.53 137.16 0)
 			(hide yes)
 			(show_name no)
@@ -6498,7 +6498,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SW_SPST"
+		(property "Value" "D2F-01FL"
 			(at 72.39 176.5299 90)
 			(hide yes)
 			(show_name no)
@@ -6510,7 +6510,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Cott:SW_Omron_D2F-01FL_SPST_NO"
 			(at 69.85 175.26 0)
 			(hide yes)
 			(show_name no)
@@ -6826,7 +6826,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "D"
+		(property "Value" "1N4148W"
 			(at 59.69 138.4299 90)
 			(hide yes)
 			(show_name no)
@@ -6838,7 +6838,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 57.15 137.16 0)
 			(hide yes)
 			(show_name no)
@@ -6942,7 +6942,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 234.95 82.8548 0)
 			(hide yes)
 			(show_name no)
@@ -7260,7 +7260,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "D"
+		(property "Value" "1N4148W"
 			(at 33.02 138.4299 90)
 			(hide yes)
 			(show_name no)
@@ -7272,7 +7272,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 30.48 137.16 0)
 			(hide yes)
 			(show_name no)
@@ -7366,7 +7366,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "D"
+		(property "Value" "1N4148W"
 			(at 53.34 167.6399 90)
 			(hide yes)
 			(show_name no)
@@ -7378,7 +7378,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 50.8 166.37 0)
 			(hide yes)
 			(show_name no)
@@ -7472,7 +7472,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "D"
+		(property "Value" "1N4148W"
 			(at 57.15 167.6399 90)
 			(hide yes)
 			(show_name no)
@@ -7484,7 +7484,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 54.61 166.37 0)
 			(hide yes)
 			(show_name no)
@@ -7578,7 +7578,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SW_SPST"
+		(property "Value" "D2F-01FL"
 			(at 76.2 176.5299 90)
 			(hide yes)
 			(show_name no)
@@ -7590,7 +7590,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Cott:SW_Omron_D2F-01FL_SPST_NO"
 			(at 73.66 175.26 0)
 			(hide yes)
 			(show_name no)
@@ -7740,7 +7740,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "D"
+		(property "Value" "1N4148W"
 			(at 63.5 138.4299 90)
 			(hide yes)
 			(show_name no)
@@ -7752,7 +7752,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 60.96 137.16 0)
 			(hide yes)
 			(show_name no)
@@ -8003,7 +8003,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "D"
+		(property "Value" "1N4148W"
 			(at 36.83 138.4299 90)
 			(hide yes)
 			(show_name no)
@@ -8015,7 +8015,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 34.29 137.16 0)
 			(hide yes)
 			(show_name no)
@@ -8274,7 +8274,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 127 82.8548 0)
 			(hide yes)
 			(show_name no)
@@ -8346,7 +8346,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SW_SPST"
+		(property "Value" "D2F-01FL"
 			(at 34.29 176.5299 90)
 			(hide yes)
 			(show_name no)
@@ -8358,7 +8358,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Cott:SW_Omron_D2F-01FL_SPST_NO"
 			(at 31.75 175.26 0)
 			(hide yes)
 			(show_name no)
@@ -8440,7 +8440,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 209.55 51.1048 0)
 			(hide yes)
 			(show_name no)
@@ -8590,7 +8590,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SW_SPST"
+		(property "Value" "D2F-01FL"
 			(at 55.88 147.3199 90)
 			(hide yes)
 			(show_name no)
@@ -8602,7 +8602,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Cott:SW_Omron_D2F-01FL_SPST_NO"
 			(at 53.34 146.05 0)
 			(hide yes)
 			(show_name no)
@@ -8751,7 +8751,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SW_SPST"
+		(property "Value" "D2F-01FL"
 			(at 36.83 147.3199 90)
 			(hide yes)
 			(show_name no)
@@ -8763,7 +8763,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Cott:SW_Omron_D2F-01FL_SPST_NO"
 			(at 34.29 146.05 0)
 			(hide yes)
 			(show_name no)
@@ -8845,7 +8845,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 179.07 82.8548 0)
 			(hide yes)
 			(show_name no)
@@ -9005,7 +9005,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 260.35 82.8548 0)
 			(hide yes)
 			(show_name no)
@@ -9077,7 +9077,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SW_SPST"
+		(property "Value" "D2F-01FL"
 			(at 63.5 147.3199 90)
 			(hide yes)
 			(show_name no)
@@ -9089,7 +9089,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Cott:SW_Omron_D2F-01FL_SPST_NO"
 			(at 60.96 146.05 0)
 			(hide yes)
 			(show_name no)
@@ -9317,7 +9317,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "D"
+		(property "Value" "1N4148W"
 			(at 26.67 167.6399 90)
 			(hide yes)
 			(show_name no)
@@ -9329,7 +9329,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 24.13 166.37 0)
 			(hide yes)
 			(show_name no)
@@ -9815,7 +9815,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SW_SPST"
+		(property "Value" "D2F-01FL"
 			(at 57.15 176.5299 90)
 			(hide yes)
 			(show_name no)
@@ -9827,7 +9827,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Cott:SW_Omron_D2F-01FL_SPST_NO"
 			(at 54.61 175.26 0)
 			(hide yes)
 			(show_name no)
@@ -9899,7 +9899,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "D"
+		(property "Value" "1N4148W"
 			(at 68.58 167.6399 90)
 			(hide yes)
 			(show_name no)
@@ -9911,7 +9911,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 66.04 166.37 0)
 			(hide yes)
 			(show_name no)
@@ -10084,7 +10084,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "D"
+		(property "Value" "1N4148W"
 			(at 44.45 138.4299 90)
 			(hide yes)
 			(show_name no)
@@ -10096,7 +10096,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 41.91 137.16 0)
 			(hide yes)
 			(show_name no)
@@ -10190,7 +10190,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SW_SPST"
+		(property "Value" "D2F-01FL"
 			(at 71.12 147.3199 90)
 			(hide yes)
 			(show_name no)
@@ -10202,7 +10202,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Cott:SW_Omron_D2F-01FL_SPST_NO"
 			(at 68.58 146.05 0)
 			(hide yes)
 			(show_name no)
@@ -10361,7 +10361,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 135.89 62.738 90)
 			(hide yes)
 			(show_name no)
@@ -10433,7 +10433,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SW_SPST"
+		(property "Value" "D2F-01FL"
 			(at 41.91 176.5299 90)
 			(hide yes)
 			(show_name no)
@@ -10445,7 +10445,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Cott:SW_Omron_D2F-01FL_SPST_NO"
 			(at 39.37 175.26 0)
 			(hide yes)
 			(show_name no)
@@ -10802,7 +10802,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SW_SPST"
+		(property "Value" "D2F-01FL"
 			(at 74.93 147.3199 90)
 			(hide yes)
 			(show_name no)
@@ -10814,7 +10814,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Cott:SW_Omron_D2F-01FL_SPST_NO"
 			(at 72.39 146.05 0)
 			(hide yes)
 			(show_name no)
@@ -10964,7 +10964,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SW_SPST"
+		(property "Value" "D2F-01FL"
 			(at 64.77 176.5299 90)
 			(hide yes)
 			(show_name no)
@@ -10976,7 +10976,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Cott:SW_Omron_D2F-01FL_SPST_NO"
 			(at 62.23 175.26 0)
 			(hide yes)
 			(show_name no)
@@ -11206,7 +11206,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SW_SPST"
+		(property "Value" "D2F-01FL"
 			(at 68.58 176.5299 90)
 			(hide yes)
 			(show_name no)
@@ -11218,7 +11218,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Cott:SW_Omron_D2F-01FL_SPST_NO"
 			(at 66.04 175.26 0)
 			(hide yes)
 			(show_name no)
@@ -11290,7 +11290,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "D"
+		(property "Value" "1N4148W"
 			(at 64.77 167.6399 90)
 			(hide yes)
 			(show_name no)
@@ -11302,7 +11302,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 62.23 166.37 0)
 			(hide yes)
 			(show_name no)
@@ -11632,7 +11632,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SW_SPST"
+		(property "Value" "D2F-01FL"
 			(at 25.4 147.3199 90)
 			(hide yes)
 			(show_name no)
@@ -11644,7 +11644,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Cott:SW_Omron_D2F-01FL_SPST_NO"
 			(at 22.86 146.05 0)
 			(hide yes)
 			(show_name no)
@@ -11794,7 +11794,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "D"
+		(property "Value" "1N4148W"
 			(at 30.48 167.6399 90)
 			(hide yes)
 			(show_name no)
@@ -11806,7 +11806,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 27.94 166.37 0)
 			(hide yes)
 			(show_name no)
@@ -11909,7 +11909,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 89.2048 55.88 0)
 			(hide yes)
 			(show_name no)
@@ -12169,7 +12169,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 181.61 51.1048 0)
 			(hide yes)
 			(show_name no)
@@ -12241,7 +12241,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "D"
+		(property "Value" "1N4148W"
 			(at 45.72 167.6399 90)
 			(hide yes)
 			(show_name no)
@@ -12253,7 +12253,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 43.18 166.37 0)
 			(hide yes)
 			(show_name no)
@@ -12347,7 +12347,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SW_SPST"
+		(property "Value" "D2F-01FL"
 			(at 59.69 147.3199 90)
 			(hide yes)
 			(show_name no)
@@ -12359,7 +12359,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Cott:SW_Omron_D2F-01FL_SPST_NO"
 			(at 57.15 146.05 0)
 			(hide yes)
 			(show_name no)
@@ -12441,7 +12441,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 127 117.1448 0)
 			(hide yes)
 			(show_name no)
@@ -12523,7 +12523,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 236.22 51.1048 0)
 			(hide yes)
 			(show_name no)
@@ -12834,7 +12834,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "D"
+		(property "Value" "1N4148W"
 			(at 38.1 167.6399 90)
 			(hide yes)
 			(show_name no)
@@ -12846,7 +12846,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 35.56 166.37 0)
 			(hide yes)
 			(show_name no)
@@ -12940,7 +12940,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "D"
+		(property "Value" "1N4148W"
 			(at 41.91 167.6399 90)
 			(hide yes)
 			(show_name no)
@@ -12952,7 +12952,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 39.37 166.37 0)
 			(hide yes)
 			(show_name no)
@@ -13203,7 +13203,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SW_SPST"
+		(property "Value" "D2F-01FL"
 			(at 45.72 176.5299 90)
 			(hide yes)
 			(show_name no)
@@ -13215,7 +13215,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Cott:SW_Omron_D2F-01FL_SPST_NO"
 			(at 43.18 175.26 0)
 			(hide yes)
 			(show_name no)
@@ -13455,7 +13455,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "D"
+		(property "Value" "1N4148W"
 			(at 49.53 167.6399 90)
 			(hide yes)
 			(show_name no)
@@ -13467,7 +13467,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 46.99 166.37 0)
 			(hide yes)
 			(show_name no)
@@ -13571,7 +13571,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 152.4 117.1448 0)
 			(hide yes)
 			(show_name no)
@@ -13643,7 +13643,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SW_SPST"
+		(property "Value" "D2F-01FL"
 			(at 60.96 176.5299 90)
 			(hide yes)
 			(show_name no)
@@ -13655,7 +13655,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Cott:SW_Omron_D2F-01FL_SPST_NO"
 			(at 58.42 175.26 0)
 			(hide yes)
 			(show_name no)
@@ -13727,7 +13727,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SW_SPST"
+		(property "Value" "D2F-01FL"
 			(at 53.34 176.5299 90)
 			(hide yes)
 			(show_name no)
@@ -13739,7 +13739,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Cott:SW_Omron_D2F-01FL_SPST_NO"
 			(at 50.8 175.26 0)
 			(hide yes)
 			(show_name no)
@@ -14067,7 +14067,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SW_SPST"
+		(property "Value" "D2F-01FL"
 			(at 52.07 147.3199 90)
 			(hide yes)
 			(show_name no)
@@ -14079,7 +14079,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Cott:SW_Omron_D2F-01FL_SPST_NO"
 			(at 49.53 146.05 0)
 			(hide yes)
 			(show_name no)
@@ -14151,7 +14151,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "D"
+		(property "Value" "1N4148W"
 			(at 60.96 167.6399 90)
 			(hide yes)
 			(show_name no)
@@ -14163,7 +14163,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 58.42 166.37 0)
 			(hide yes)
 			(show_name no)
@@ -14335,7 +14335,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SW_SPST"
+		(property "Value" "D2F-01FL"
 			(at 48.26 147.3199 90)
 			(hide yes)
 			(show_name no)
@@ -14347,7 +14347,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Cott:SW_Omron_D2F-01FL_SPST_NO"
 			(at 45.72 146.05 0)
 			(hide yes)
 			(show_name no)
@@ -14598,7 +14598,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SW_SPST"
+		(property "Value" "D2F-01FL"
 			(at 38.1 176.5299 90)
 			(hide yes)
 			(show_name no)
@@ -14610,7 +14610,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Cott:SW_Omron_D2F-01FL_SPST_NO"
 			(at 35.56 175.26 0)
 			(hide yes)
 			(show_name no)
@@ -14848,7 +14848,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 208.28 82.8548 0)
 			(hide yes)
 			(show_name no)
@@ -15077,7 +15077,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SW_SPST"
+		(property "Value" "D2F-01FL"
 			(at 30.48 176.5299 90)
 			(hide yes)
 			(show_name no)
@@ -15089,7 +15089,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Cott:SW_Omron_D2F-01FL_SPST_NO"
 			(at 27.94 175.26 0)
 			(hide yes)
 			(show_name no)
@@ -15161,7 +15161,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "D"
+		(property "Value" "1N4148W"
 			(at 71.12 138.4299 90)
 			(hide yes)
 			(show_name no)
@@ -15173,7 +15173,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 68.58 137.16 0)
 			(hide yes)
 			(show_name no)
@@ -15345,7 +15345,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "D"
+		(property "Value" "1N4148W"
 			(at 74.93 138.4299 90)
 			(hide yes)
 			(show_name no)
@@ -15357,7 +15357,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 72.39 137.16 0)
 			(hide yes)
 			(show_name no)
@@ -15451,7 +15451,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SW_SPST"
+		(property "Value" "D2F-01FL"
 			(at 33.02 147.3199 90)
 			(hide yes)
 			(show_name no)
@@ -15463,7 +15463,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Cott:SW_Omron_D2F-01FL_SPST_NO"
 			(at 30.48 146.05 0)
 			(hide yes)
 			(show_name no)
@@ -15770,7 +15770,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SW_SPST"
+		(property "Value" "D2F-01FL"
 			(at 26.67 176.5299 90)
 			(hide yes)
 			(show_name no)
@@ -15782,7 +15782,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Cott:SW_Omron_D2F-01FL_SPST_NO"
 			(at 24.13 175.26 0)
 			(hide yes)
 			(show_name no)
@@ -15943,7 +15943,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "D"
+		(property "Value" "1N4148W"
 			(at 48.26 138.4299 90)
 			(hide yes)
 			(show_name no)
@@ -15955,7 +15955,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 45.72 137.16 0)
 			(hide yes)
 			(show_name no)
@@ -16059,7 +16059,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 152.4 82.8548 0)
 			(hide yes)
 			(show_name no)
@@ -16131,7 +16131,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SW_SPST"
+		(property "Value" "D2F-01FL"
 			(at 67.31 147.3199 90)
 			(hide yes)
 			(show_name no)
@@ -16143,7 +16143,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Cott:SW_Omron_D2F-01FL_SPST_NO"
 			(at 64.77 146.05 0)
 			(hide yes)
 			(show_name no)
@@ -16293,7 +16293,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "D"
+		(property "Value" "1N4148W"
 			(at 55.88 138.4299 90)
 			(hide yes)
 			(show_name no)
@@ -16305,7 +16305,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 53.34 137.16 0)
 			(hide yes)
 			(show_name no)
@@ -16409,7 +16409,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 179.07 117.1448 0)
 			(hide yes)
 			(show_name no)
@@ -16481,7 +16481,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "D"
+		(property "Value" "1N4148W"
 			(at 34.29 167.6399 90)
 			(hide yes)
 			(show_name no)
@@ -16493,7 +16493,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 31.75 166.37 0)
 			(hide yes)
 			(show_name no)
@@ -16587,7 +16587,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SW_SPST"
+		(property "Value" "D2F-01FL"
 			(at 40.64 147.3199 90)
 			(hide yes)
 			(show_name no)
@@ -16599,7 +16599,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Cott:SW_Omron_D2F-01FL_SPST_NO"
 			(at 38.1 146.05 0)
 			(hide yes)
 			(show_name no)
@@ -16750,7 +16750,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "D"
+		(property "Value" "1N4148W"
 			(at 25.4 138.4299 90)
 			(hide yes)
 			(show_name no)
@@ -16762,7 +16762,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 22.86 137.16 0)
 			(hide yes)
 			(show_name no)
@@ -17024,7 +17024,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "D"
+		(property "Value" "1N4148W"
 			(at 72.39 167.6399 90)
 			(hide yes)
 			(show_name no)
@@ -17036,7 +17036,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 69.85 166.37 0)
 			(hide yes)
 			(show_name no)
@@ -17857,7 +17857,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "D"
+		(property "Value" "1N4148W"
 			(at 67.31 138.4299 90)
 			(hide yes)
 			(show_name no)
@@ -17869,7 +17869,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 64.77 137.16 0)
 			(hide yes)
 			(show_name no)
@@ -17963,7 +17963,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SW_SPST"
+		(property "Value" "D2F-01FL"
 			(at 44.45 147.3199 90)
 			(hide yes)
 			(show_name no)
@@ -17975,7 +17975,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Cott:SW_Omron_D2F-01FL_SPST_NO"
 			(at 41.91 146.05 0)
 			(hide yes)
 			(show_name no)
@@ -18047,7 +18047,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "D"
+		(property "Value" "1N4148W"
 			(at 40.64 138.4299 90)
 			(hide yes)
 			(show_name no)
@@ -18059,7 +18059,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 38.1 137.16 0)
 			(hide yes)
 			(show_name no)
@@ -18386,7 +18386,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "D"
+		(property "Value" "1N4148W"
 			(at 29.21 138.4299 90)
 			(hide yes)
 			(show_name no)
@@ -18398,7 +18398,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 26.67 137.16 0)
 			(hide yes)
 			(show_name no)

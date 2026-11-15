@@ -1,0 +1,4 @@
+CompileFlags:
+  CompilationDatabase: .
+  Add: [--target=xtensa-esp-elf, -nostdlibinc, -nostdinc++]
+  Remove: [-mlongcalls, -mdisable-hardware-atomics, -fstrict-volatile-bitfields, -fno-tree-switch-conversion]
