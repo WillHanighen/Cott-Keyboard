@@ -1,4 +1,5 @@
 # Cott Keyboard
+## A shitty 14-key MIDI keyboard
 
 Idiot attempts PCB design n stuff for first time
 
